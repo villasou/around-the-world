@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/around-the-world/static/css/main.024f8a9b.chunk.css",
+    "main.js": "/around-the-world/static/js/main.a1e94dff.chunk.js",
+    "main.js.map": "/around-the-world/static/js/main.a1e94dff.chunk.js.map",
+    "runtime-main.js": "/around-the-world/static/js/runtime-main.2f1156ea.js",
+    "runtime-main.js.map": "/around-the-world/static/js/runtime-main.2f1156ea.js.map",
+    "static/css/2.cbedb215.chunk.css": "/around-the-world/static/css/2.cbedb215.chunk.css",
+    "static/js/2.bf321209.chunk.js": "/around-the-world/static/js/2.bf321209.chunk.js",
+    "static/js/2.bf321209.chunk.js.map": "/around-the-world/static/js/2.bf321209.chunk.js.map",
+    "index.html": "/around-the-world/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "/around-the-world/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.024f8a9b.chunk.css.map": "/around-the-world/static/css/main.024f8a9b.chunk.css.map",
+    "static/js/2.bf321209.chunk.js.LICENSE.txt": "/around-the-world/static/js/2.bf321209.chunk.js.LICENSE.txt",
+    "static/media/hotel.6e1b7f29.jpeg": "/around-the-world/static/media/hotel.6e1b7f29.jpeg",
+    "static/media/places.c4d9d910.jpeg": "/around-the-world/static/media/places.c4d9d910.jpeg",
+    "static/media/tours.e36e45a0.jpeg": "/around-the-world/static/media/tours.e36e45a0.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f1156ea.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.bf321209.chunk.js",
+    "static/css/main.024f8a9b.chunk.css",
+    "static/js/main.a1e94dff.chunk.js"
+  ]
+}
